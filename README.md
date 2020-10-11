@@ -2,7 +2,7 @@
 bunch of C programming concepts
 
 
-```cpp
+```c#
 /**
  * Counts number of words, separated by spaces, in a line.
  * @param line string in which to count words
